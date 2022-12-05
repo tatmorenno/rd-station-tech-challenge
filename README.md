@@ -34,4 +34,4 @@ Projeto desenvolvido para o Tech Challenge [RD Station](https://rdstation.com.br
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 
-```<♥>``` Desenvolvido com ♥ e toques especiais de [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/) ```</♥>```
+```<♥>``` Desenvolvido com ♥ e toques especiais de [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/). ```</♥>```
