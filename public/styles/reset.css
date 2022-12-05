@@ -1,0 +1,29 @@
+*,
+*:after,
+*:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+body,
+html {
+	font-size: 100%;
+	list-style-type: none;
+	font-size: 14px;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
+
+button {
+	border: none;
+	font-family: "Nunito Sans", sans-serif;
+	font-weight: bold;
+	cursor: pointer;
+	padding: 0;
+	margin: 0;
+}
