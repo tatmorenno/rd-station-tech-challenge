@@ -17,8 +17,14 @@
 </p>
 
 
-## 💻 Projeto
-Projeto desenvolvido para o Tech Challenge [Seletivo RD](https://resultadosdigitais.com.br/).
+## 🖥️ Projeto
+Projeto desenvolvido para o Tech Challenge [Seletivo RD](https://resultadosdigitais.com.br/).<br><br>
+
+## 💻 Deploy
+
+[Clique aqui para visualizar o projeto no ar!](https://tatmorenno.github.io/rd-station-tech-challenge/)
+
+
 ## 🚀 Tecnologias utilizadas
 
 - [JavaScript](https://www.javascript.com/)
