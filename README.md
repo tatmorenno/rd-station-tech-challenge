@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <sub>exemplo da tela inicial do <code>rd-station-tech-challenge</code> rodando no Chrome ↓</sub>
+  <sub>Abaixo, um exemplo da tela inicial do <code>rd-station-tech-challenge</code> rodando no Chrome ↓</sub>
 </p>
 
 <p align="center">
@@ -18,11 +18,13 @@
 
 
 ## 🖥️ Projeto
-Projeto desenvolvido para o Tech Challenge [Seletivo RD](https://resultadosdigitais.com.br/).<br><br>
+Projeto desenvolvido para o Tech Challenge [Seletivo RD Station](https://rdstation.com.br/) com base [neste layout](https://www.figma.com/proto/heOszg42LP1K070IiLXiLV/Teste---Vaga?node-id=1553%3A2774&scaling=scale-down&page-id=3%3A21&starting-point-node-id=1553%3A2774) disponibilizado no [Figma](https://www.figma.com/).
 
-## 💻 Deploy
+<br>
 
-[Clique aqui para visualizar o projeto no ar!](https://tatmorenno.github.io/rd-station-tech-challenge/)
+## 👩🏻‍💻 Deploy
+
+[Clique aqui para visualizar o projeto no ar!](https://tatmorenno.github.io/rd-station-tech-challenge/)<br><br>
 
 
 ## 🚀 Tecnologias utilizadas
