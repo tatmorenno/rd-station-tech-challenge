@@ -15,10 +15,10 @@
   <img src="https://ik.imagekit.io/tatmorenno/rd_mMgt5Bl2L.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1669781620914" width="800" height="600" >
    </kbd>
 </p>
-
+<br>
 
 ## 🖥️ Projeto
-Projeto desenvolvido para o Tech Challenge [Seletivo RD Station](https://rdstation.com.br/) com base [neste layout](https://www.figma.com/proto/heOszg42LP1K070IiLXiLV/Teste---Vaga?node-id=1553%3A2774&scaling=scale-down&page-id=3%3A21&starting-point-node-id=1553%3A2774) disponibilizado no [Figma](https://www.figma.com/).
+Projeto desenvolvido para o Tech Challenge [RD Station](https://rdstation.com.br/) com base [neste layout](https://www.figma.com/proto/heOszg42LP1K070IiLXiLV/Teste---Vaga?node-id=1553%3A2774&scaling=scale-down&page-id=3%3A21&starting-point-node-id=1553%3A2774) disponibilizado no [Figma](https://www.figma.com/).
 
 <br>
 
